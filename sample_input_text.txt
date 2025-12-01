@@ -1,0 +1,20 @@
+sample_inputs.txt
+
+# Encrypted-looking samples
+A7F93C9B88D1EFA2349B
+9F3A7C1D22BB19D0A44E
+3A9C!@#95EF*(&F12AB
+$#@!%&^*()_+=-
+
+# Not encrypted (normal text)
+hello how are you
+keerthana is working on a project
+this is a normal english sentence
+welcome123
+I am learning ML today
+
+# Mixed/edge cases
+12345678901234567890
+HELLO123WORLD
+ABCDEF123456
+randomTEXTwith123numbers
